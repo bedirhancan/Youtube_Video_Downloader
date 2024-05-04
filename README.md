@@ -1,16 +1,23 @@
-# Youtube_Video_Downloader
-YouTube Video Downloader
-A simple PyQt5 application for downloading videos from YouTube.
+# YouTube Video Downloader
 
-Installation
-Clone the repository.
-Install the required dependencies: pip install PyQt5 pytube.
-Usage
-Launch the application.
-Enter the URL of the YouTube video you want to download.
-Select the desired format (MP4 or MP3).
-Click the "Download" button.
-Choose the location where you want to save the downloaded file.
-Once the download is complete, a message box will appear with a link to the downloaded file.
-License
-This project is licensed under the MIT License.
+![Logo](icon.png)
+
+YouTube Video Downloader, PyQt5 ve pytube kütüphaneleri kullanılarak geliştirilmiş basit bir uygulamadır. Bu uygulama ile YouTube'dan video indirebilirsiniz.
+
+## Kurulum
+
+1. Depoyu klonlayın: `git clone https://github.com/kullanici/YouTube-Video-Downloader.git`
+2. Gerekli bağımlılıkları yükleyin: `pip install PyQt5 pytube`
+
+## Kullanım
+
+1. Uygulamayı başlatın.
+2. İndirmek istediğiniz YouTube videosunun URL'sini girin.
+3. İndirme formatını seçin (MP4 veya MP3).
+4. "İndir" düğmesine tıklayın.
+5. İndirilecek dosyanın kaydedileceği konumu seçin.
+6. İndirme tamamlandığında, indirilen dosyanın bulunduğu klasörü açan bir iletişim kutusu görünecektir.
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
