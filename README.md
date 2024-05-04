@@ -1,13 +1,7 @@
 # YouTube Video Downloader
 
-![Logo](icon.png)
 
 YouTube Video Downloader, PyQt5 ve pytube kütüphaneleri kullanılarak geliştirilmiş basit bir uygulamadır. Bu uygulama ile YouTube'dan video indirebilirsiniz.
-
-## Kurulum
-
-1. Depoyu klonlayın: `git clone https://github.com/kullanici/YouTube-Video-Downloader.git`
-2. Gerekli bağımlılıkları yükleyin: `pip install PyQt5 pytube`
 
 ## Kullanım
 
