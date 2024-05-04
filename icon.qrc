@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="indir">
+    <file>download_icon_128877.ico</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>background-image.jpg</file>
+  </qresource>
+  <qresource prefix="icoon">
+    <file>filmerror.ico</file>
+  </qresource>
+</RCC>
