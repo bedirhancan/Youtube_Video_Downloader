@@ -9,7 +9,7 @@ class MainPage(QWidget):
         self.ui = Ui_YoutubeVideoDownloader_Form()
         self.ui.setupUi(self)
         self.ui.pushButton_download.clicked.connect(self.Download)
-        self.setFixedSize(400, 300)
+       
 
     # İndirme fonksiyonu
     def Download(self):
